@@ -1,7 +1,7 @@
 ## 🧙‍♂️ Jesron Stark – Code Sorcerer in python3 Realms
 
 <p>
-  Welcome to my GitHub realm! I'm a passionate Java developer weaving magic through code.
+  Welcome to my GitHub realm! I'm a passionate python3 developer weaving magic through code.
 </p>
 
 ### 🔗 Connect with Me
