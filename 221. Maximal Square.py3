@@ -21,3 +21,5 @@ class Solution:
 
         return max_side * max_side
 
+
+
