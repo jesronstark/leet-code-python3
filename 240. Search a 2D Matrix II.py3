@@ -17,3 +17,4 @@ class Solution:
                 row += 1
 
         return False
+
